@@ -1,6 +1,6 @@
 # Store-item-demand-forecasting
 
-Using historical markdown data to predict store sales. 
+Using historical data to predict sales across a wide range of stores and departments. For data, see: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview
 
 # How to Run
 
