@@ -5,13 +5,33 @@ Using historical data to predict sales across a wide range of stores and departm
 # How to Run
 
 ## Dependencies
-- numpy 
-- pandas 
+
+### Linear Algebra
+- numpy
+
+### Data Manipulation
+- pandas
+
+### Machine Learning 
 - sklearn
-- datetime 
+- xgboost
+
+### Time
+- datetime
+
+### Plotting
 - matplotlib
-- seaborn 
-- xgboost 
+- seaborn
+
+### Conversions
+- re
+
+### Iterators
+- itertools
+
+### Warnings
+- warnings
+
 
 ## Setup:
 
