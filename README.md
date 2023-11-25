@@ -6,31 +6,7 @@ Using historical data to predict sales across a wide range of stores and departm
 
 ## Dependencies
 
-### Linear Algebra
-- numpy
-
-### Data Manipulation
-- pandas
-
-### Machine Learning 
-- sklearn
-- xgboost
-
-### Time
-- datetime
-
-### Plotting
-- matplotlib
-- seaborn
-
-### Conversions
-- re
-
-### Iterators
-- itertools
-
-### Warnings
-- warnings
+All requirements are listed in the requirements.txt file.
 
 
 ## Setup:
@@ -38,4 +14,4 @@ Using historical data to predict sales across a wide range of stores and departm
 • Clone the repository to your local machine \
 • Ensure you've installed all required dependencies (see the "Dependencies" section) \
 • Download data and place it in your working directory \
-• Note: Some libraries are imported with specific abbreviations in the code, like import numpy as np
+• Run main.py file for derivation of the final model
