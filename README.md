@@ -9,7 +9,7 @@ Using historical data to predict sales across a wide range of stores and departm
 All requirements are listed in the requirements.txt file.
 
 
-## Setup:
+## Setup
 
 • Clone the repository to your local machine \
 • Ensure you've installed all required dependencies (see the "Dependencies" section) \
